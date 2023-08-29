@@ -4,6 +4,7 @@
 #include <time.h>
 #include "level.h"
 
+//la fonction du niveau 2
 void levelTwo(int n, int **tabPlayer){
 	srand(time(NULL));
 	white();printf("Nous allons commencer les lancés...\n");reset();

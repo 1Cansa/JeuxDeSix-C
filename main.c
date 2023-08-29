@@ -5,6 +5,7 @@
 #include <stdbool.h>
 #include "level.h"
 
+//le tableau qui affiche le jeu
 void afficheTab(int **tab, int n, int p){
 	for(int i=0; i<n; i++){
 		for(int j=0; j<p; j++){

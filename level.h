@@ -1,6 +1,9 @@
 #ifndef _JEU_SIX_
 #define _JEU_SIX_
 
+//Principe du jeu
+// un jeu de dé en 6 joueurs et le jeu avance automatiquement
+
 //les Fonctions couleurs
 void yellow();
 void reset();

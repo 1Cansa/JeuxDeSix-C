@@ -4,6 +4,7 @@
 #include <unistd.h>
 #include "level.h"
 
+//la fonction du niveau 1
 void somme1(int **total, int **tabPlayer, int n){
 	int sum=0;
 	for(int i=0; i<n; i++){

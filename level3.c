@@ -4,6 +4,7 @@
 #include <unistd.h>
 #include "level.h"
 
+//la fonction du niveau 3
 void levelThree(int n, int **tabPlayer, int z){
 	srand(time(NULL));
 	white();printf("Nous allons commencer les lancés...\n");reset();

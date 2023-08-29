@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include "level.h"
 
+//les couleurs pour une petite animation
+
 void yellow(){
 	printf("\033[1;33m");
 }
